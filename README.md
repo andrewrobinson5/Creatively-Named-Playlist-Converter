@@ -40,9 +40,6 @@ view app in a web browser at port 80
 
     https://localhost:80
 
-## Deployment
-
-To be deployed as a web app. Currently hosted at http://cn-pc.tech/
 
 ## Authors
 
